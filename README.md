@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 <!--
 **andresantonioriveros/andresantonioriveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
