@@ -7,6 +7,13 @@
 ![Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+## Contact
+
+- Website: [andresriveros.com](https://andresriveros.com)
+- GitHub: [@andresantonioriveros](https://github.com/andresantonioriveros)
+- LinkedIn: [aariveros](https://www.linkedin.com/in/aariveros)
+- Email: andresriveros [at] hey [dot] com
+
 <!--
 **andresantonioriveros/andresantonioriveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
