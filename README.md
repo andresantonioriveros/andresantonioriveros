@@ -12,7 +12,7 @@
 - Website: [andresriveros.com](https://andresriveros.com)
 - GitHub: [@andresantonioriveros](https://github.com/andresantonioriveros)
 - LinkedIn: [aariveros](https://www.linkedin.com/in/aariveros)
-- Email: andresriveros [at] hey [dot] com
+- Email: [andresriveros@hey.com](mailto:andresriveros@hey.com)
 
 <!--
 **andresantonioriveros/andresantonioriveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
