@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<b> <sup> 📍 San Francisco, CA | 🇨🇱 From Santiago, Chile | Software @ </sup> ![Instagram](https://img.shields.io/badge/instagram-FF1493?logo=instagram)  <sup> | 🚀 Ex-Founder @  </sup> ![resIT](https://img.shields.io/badge/resIT-FFA000?logo=resIT) </b>
+<b> <sup> 📍 San Francisco, CA | 🇨🇱 From Santiago, Chile | Software @ Meta | 🚀 Ex-Founder @ resIT </b>
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
