@@ -14,5 +14,6 @@
 
 - Website: [andresriveros.com](https://andresriveros.com)
 - GitHub: [@andresantonioriveros](https://github.com/andresantonioriveros)
+- X: [@andresariveros](https://x.com/AndresARiveros)
 - LinkedIn: [andresantonioriveros](https://www.linkedin.com/in/andresantonioriveros)
 - Email: [andresriveros@hey.com](mailto:andresriveros@hey.com)
